@@ -1,4 +1,4 @@
-# VW : Virtual Waggle
+# Virtual Waggle (VW)
 
 #### Lead: [Sean Shahkarami](mailto:sshahkarami@uchicago.edu)
 
