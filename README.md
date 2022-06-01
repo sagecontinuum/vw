@@ -1,3 +1,5 @@
+# _This repo is archived. See https://github.com/waggle-sensor/virtual-waggle_
+
 # Virtual Waggle (VW)
 
 #### Lead: Sean Shahkarami
